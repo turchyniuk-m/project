@@ -1,2 +1,4 @@
-Data is stored in Google BigQuery and is not included in this repository.
-To reproduce the analysis, use the SQL queries provided in the /sql folder.
+The full dataset is stored in Google BigQuery due to size and privacy restrictions.  
+
+To reproduce the analysis, use the SQL query provided in `sql/main_query.sql`.  
+All data transformations, aggregations, and visualizations are implemented in the notebooks.
