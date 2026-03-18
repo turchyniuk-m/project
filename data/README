@@ -1,0 +1,2 @@
+Data is stored in Google BigQuery and is not included in this repository.
+To reproduce the analysis, use the SQL queries provided in the /sql folder.
