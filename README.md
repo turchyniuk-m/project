@@ -102,4 +102,4 @@ A sample dataset is provided for demonstration purposes.
 
 
 ## 📬 Author
-Turchyniuk Mykhailo
+Mykhailo Turchyniuk
