@@ -82,3 +82,10 @@ A sample dataset is provided for demonstration purposes.
 
 ## 📬 Author
 Misha Turchyniuk  
+
+
+assets/
+ ├── sales_by_category.png
+ ├── sales_by_country.png
+ ├── sales_trends.png
+ └── delivery_time.png
