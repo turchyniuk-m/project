@@ -94,8 +94,12 @@ A sample dataset is provided for demonstration purposes.
 
 ---
 
-##📊 Interactive Tableau Dashboard
+## 📊 **Interactive Tableau Dashboard**
+
 [Open Dashboard](https://public.tableau.com/views/E-commerceSalesCustomerBehaviorAnalysis_17717774683410/E-commerceSalesCustomerBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 
 ## 📬 Author
 Turchyniuk Mykhailo
