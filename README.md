@@ -95,4 +95,4 @@ A sample dataset is provided for demonstration purposes.
 ---
 
 ## 📬 Author
-Misha Turchyniuk
+Turchyniuk Mykhailo
